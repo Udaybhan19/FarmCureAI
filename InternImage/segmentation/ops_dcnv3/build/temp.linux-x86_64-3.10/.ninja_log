@@ -1,0 +1,20 @@
+# ninja log v7
+536	8419	1770035332000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+560	25802	1770035332000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+25	52892	1770036024000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cuda/dcnv3_cuda.o	bd731cf5b44e25b6
+1606	9872	1770176278000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1610	27154	1770176278000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+1219	15080	1770183950000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1224	42659	1770183950000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+1613	9362	1770190972000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1617	26059	1770190972000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+2288	9989	1770261809000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+2291	26016	1770261809000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+1324	8584	1770277972000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1327	24807	1770277972000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+1662	9997	1770286227000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1666	27998	1770286227000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+1459	9515	1770357370000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1462	27107	1770357370000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37
+1459	9664	1770370462000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	719a0fbd2483500f
+1462	26844	1770370462000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-3.10/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	76da73b6a685ad37

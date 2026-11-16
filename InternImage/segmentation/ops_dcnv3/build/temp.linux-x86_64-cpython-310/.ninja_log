@@ -1,0 +1,7 @@
+# ninja log v5
+355	7995	1770556507000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-310/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	98f5c24df57976a8
+357	25130	1770556524000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-310/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	4ab66424b34b26a
+356	55854	1770556555000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-310/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cuda/dcnv3_cuda.o	3813623a6fa45a69
+2461	11103	1770562110000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-310/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cpu/dcnv3_cpu.o	98f5c24df57976a8
+2462	28241	1770562128000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-310/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/vision.o	4ab66424b34b26a
+2461	58374	1770562158000000000	/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/build/temp.linux-x86_64-cpython-310/content/drive/MyDrive/Uday/InternImage/segmentation/ops_dcnv3/src/cuda/dcnv3_cuda.o	3813623a6fa45a69
