@@ -43,14 +43,6 @@ FarmCureAI/
 └── README.md
 ```
 
-### Main Components
-
-| File / Directory | Description |
-|---|---|
-| `All_Disease_Dataset/` | The prepared datasets, including the crop-wise disease datasets and the training and testing splits of unknown crop-category. |
-| `InternImage/` | InternImage framework and segmentation model implementation. |
-| `data_processing.ipynb` | Dataset selection, processing, and organization. |
-| `model_training_inference.ipynb` | Environment setup, dependency installation, dataset loading, model training, and inference. |
 
 ---
 
