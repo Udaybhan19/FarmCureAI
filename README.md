@@ -48,11 +48,14 @@ FarmCureAI/
 
 ## Dataset Preparation
 
+## Datasets
+
 The proposed framework integrates three publicly available agricultural datasets:
 
-1. **PlantSeg**
-2. **NLB**
-3. **Rice Disease**
+1. **[PlantSeg](https://github.com/Junfeng-Gao/PlantSeg)** 
+2. **[NLB (Northern Leaf Blight Disease)]([https://osf.io/p67rz/](https://openaccess.thecvf.com/content/WACV2024/supplemental/Prashanth_Towards_Accurate_Disease_WACV_2024_supplemental.pdf))**
+3. **[Rice Disease](https://www.kaggle.com/datasets/slygirl/rice-leaf-disease-with-segmentation-labels)**
+
 
 ### Step 1: Download the Datasets
 
