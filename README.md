@@ -1,12 +1,7 @@
-<p align="center">
-  <strong>Accepted at IEEE INDICON 2026</strong>
-</p>
-
----
 
 # FarmCureAI
-An AI-powered mobile decision support system for real-time, multi-crop plant disease detection and lesion segmentation using real-world field images. Accepted at IEEE INDICON 2026.
-# FarmCureAI: An AI-Powered Mobile Decision Support System for Real-Time Plant Disease Detection and Segmentation
+## An AI-powered mobile decision support system for real-time, multi-crop plant disease detection and lesion segmentation using real-world field images. Accepted at IEEE INDICON 2026.
+
 
 ## Abstract
 
